@@ -1,0 +1,4 @@
+c:\users\amitkumar06\documents\visual studio 2013\Projects\TestCodeDocumentationGeneration\TestCodeDocumentationGeneration\bin\Debug\TestCodeDocumentationGeneration.dll
+c:\users\amitkumar06\documents\visual studio 2013\Projects\TestCodeDocumentationGeneration\TestCodeDocumentationGeneration\bin\Debug\TestCodeDocumentationGeneration.pdb
+c:\users\amitkumar06\documents\visual studio 2013\Projects\TestCodeDocumentationGeneration\TestCodeDocumentationGeneration\obj\Debug\TestCodeDocumentationGeneration.dll
+c:\users\amitkumar06\documents\visual studio 2013\Projects\TestCodeDocumentationGeneration\TestCodeDocumentationGeneration\obj\Debug\TestCodeDocumentationGeneration.pdb
