@@ -1,0 +1,7 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <UsingTask AssemblyFile="C:\Program Files (x86)\Innovasys\DocumentX2015\bin\Innovasys.DocumentX.Build.dll" TaskName="ProjectBuildTask" />
+  <Target Name="GenerateDocumentation" Condition=" '$(Configuration)' == 'Debug' ">
+    <Innovasys.DocumentX.Build.ProjectBuildTask ProjectFileName=".\Help\Project\TestCodeDocumentationGenerationHELP.dxp"/>
+  </Target>
+</Project>
